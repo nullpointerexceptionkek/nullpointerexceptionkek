@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello, I'm lee, a high school student</div>  
+### <div align="center">Hello, I'm lee</div>  
   
 
 - 🔭 I’m currently working on [Discord Rich Presence Manager](https://github.com/nullpointerexceptionkek/CDiscrodRP)  
@@ -83,5 +83,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
