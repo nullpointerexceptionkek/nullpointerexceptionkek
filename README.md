@@ -6,10 +6,7 @@
 ### <div align="center">Hello, I'm lee</div>  
   
 
-- 🔭 I’m currently working on [Discord Rich Presence Manager](https://github.com/nullpointerexceptionkek/CDiscrodRP)  
-  
-
-- 🌱 I’m currently learning HTML/CSS/JavaScript/React  
+  - 🌱 I’m currently learning HTML/CSS/JavaScript/React  
   
 
 - ⚡ Fun fact: I use println instead of debugger :kek:  
