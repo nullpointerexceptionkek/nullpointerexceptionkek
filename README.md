@@ -6,7 +6,7 @@
 ### <div align="center">Hello, I'm lee</div>  
   
 
-  - 🌱 I’m currently learning HTML/CSS/JavaScript/React  
+  - 🌱 I’m currently learning HTML/CSS/JavaScript/Svelte  
   
 
 - ⚡ Fun fact: I use println instead of debugger :kek:  
