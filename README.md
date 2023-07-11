@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Hello, I'm lee</div>  
+### <div align="center">Hello!</div>  
   
 
 Java, Kotlin, C++, Svelte, Javascript, Typescript <3
@@ -14,7 +9,6 @@ Java, Kotlin, C++, Svelte, Javascript, Typescript <3
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 ## Front End
 <div align="center">  
