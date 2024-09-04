@@ -3,9 +3,10 @@
 # <div align="center">Hello! I am Louis!!!</div>
 
 <div align="center"> 
-I'm a High School Developer
 
-I develop JVM applications, discord bot, and front end websites.
+I develop JVM applications, discord bot, and full stack websites.
+
+The main cloud provider I use right now is GCP.
 
 Want a cross-platform advance [Discord Rich Presence Manager](https://github.com/nullpointerexceptionkek/Discord-DynamicRP)?
 
